@@ -1462,3 +1462,32 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.21-15.44.33:533][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2023.03.21-15.44.33:570][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.03.21-15.44.41:079][198]LogSlate: Took 0.015099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.21-15.46.16:392][781]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2023.03.21-15.46.16:392][781]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2023.03.21-15.46.16:393][781]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2023.03.21-15.46.16:393][781]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2023.03.21-15.46.16:393][781]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2023.03.21-15.46.16:393][781]LogWindows: Warning: URL: C:\Users\Usuario\AppData\Local/Programs/Git/cmd/git.exe version
+[2023.03.21-15.46.16:393][781]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2023.03.21-15.46.16:394][781]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2023.03.21-15.46.16:394][781]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2023.03.21-15.46.16:394][781]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2023.03.21-15.46.16:394][781]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2023.03.21-15.46.16:394][781]LogWindows: Warning: URL: C:\Users\Usuario\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2023.03.21-15.46.16:394][781]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2023.03.21-15.46.16:394][781]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2023.03.21-15.48.04:122][944]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2023.03.21-15.48.07:425][995]LogSlate: Took 0.021887 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.21-16.13.28:593][983]LogSlate: Window 'Registro del mensaje' being destroyed
+[2023.03.21-16.13.28:621][983]LogSlate: Window 'Registro del mensaje' being destroyed
+[2023.03.21-16.14.38:784][131]LogSlate: Window 'Inicio de sesión del control del código fuente' being destroyed
+[2023.03.21-16.16.47:150][368]LogSlate: Took 0.009080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.21-16.16.47:181][368]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-16.16.48:008][368]LogSlate: Window 'Escoger clase padre' being destroyed
+[2023.03.21-16.16.48:050][368]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.03.21-16.16.48:083][368]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.03.21-16.16.51:468][447]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2023.03.21-16.16.51:593][447]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.03.21-16.18.05:041][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.03.21-16.18.06:294][141]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.21-16.18.06:471][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
