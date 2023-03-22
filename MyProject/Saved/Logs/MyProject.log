@@ -1804,3 +1804,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.22-20.09.05:198][806]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2023.03.22-20.13.29:911][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
 [2023.03.22-20.13.34:585][537]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2023.03.22-20.23.40:940][253]LogSlate: Took 0.031571 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.22-20.23.56:855][675]LogSlate: Window 'Inicio de sesión del control del código fuente' being destroyed
+[2023.03.22-20.24.04:711][698]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Mannequin/Animations/puñito.puñito
+[2023.03.22-20.24.04:714][698]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_97:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.22-20.24.05:473][698]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.03.22-20.26.48:793][371]LogSlate: Window 'puñito' being destroyed
+[2023.03.22-20.26.48:834][371]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-20.26.48:834][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-20.26.48:871][371]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-20.26.48:871][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-20.26.48:929][371]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-20.26.48:930][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
